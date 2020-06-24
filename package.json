@@ -8,5 +8,8 @@
             "flowFile": "flows.json",
             "credentialsFile": "flows_cred.json"
         }
+    },
+    "dependencies": {
+        "node-red-node-mysql": "0.0.19"
     }
 }
